@@ -11,8 +11,30 @@
 <a href="https://youtube.com/playlist?list=PL_zkjRWwoQj-i8ftGefLnyQJ-uLVxi-ZV&si=HTZ7yvgtF9b2RoK7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@akila_salinda" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Visit <a href="https://akila-srikantha.netlify.app/ ">my online portfolio</a> to discover about my journey!</h3>
-<img justify="center" src="https://github.com/Aksal00/Aksal00/assets/110421821/d7e93e56-1daf-422a-836c-d44dbeabed72" alt="portfolio image" width="700" height="350"/> 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
+
+- 🧑‍🎓 I’m an Undergraduate at **Department of Computer Science, University of Sri Jayewardenepura**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **akilasrikantha2000@gmail.com**
+  
+- ⚡ Fun fact **I hate dhal curry with spinach**
+
+</td>
+<td width="50%" align="center">
+  <h3 align="center">Visit <a href="https://akila-srikantha.netlify.app/ ">my online portfolio</a> to discover about my journey!</h3>
+  <img align="center" alt="portfolio image" width="250" src="https://github.com/Aksal00/Aksal00/assets/110421821/d7e93e56-1daf-422a-836c-d44dbeabed72">
+
+  
+  </td>
+</tr>
+</table>
+
 
 
 
