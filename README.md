@@ -1,7 +1,7 @@
 ## Hi there, 👋
 
 <h1 align="center">I'm Akila Srikantha</h1>
-<h3 align="center">A diligent and goal-oriented individual with strong abilities in teamwork and independent thinking</h3>
+<h3 align="center">Everything is Connected</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksal00&label=Profile%20views&color=0e75b6&style=flat" alt="aksal00" /> </p>
 
