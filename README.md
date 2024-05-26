@@ -10,7 +10,9 @@
 <a href="https://x.com/akila_salinda" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/b8181fc35cd410eb4f83d9e05d93555f4ac0aeca/public/icons/x/x-light.svg" alt="@akila_salinda" height="30" width="40" /></a>
 <a href="https://youtube.com/playlist?list=PL_zkjRWwoQj-i8ftGefLnyQJ-uLVxi-ZV&si=HTZ7yvgtF9b2RoK7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@akila_salinda" height="30" width="40" /></a>
 </p>
-<img align="center" src="https://github.com/Aksal00/Aksal00/assets/110421821/2a5960d0-1d4f-4843-9a6e-87510ed674d9" alt="portfolio image" width="700" height="400"/> 
+
+<h3 align="center">Visit <a href="https://akila-srikantha.netlify.app/ ">my online portfolio</a> to discover about my journey!</h3>
+<img align="center" src="[https://github.com/Aksal00/Aksal00/assets/110421821/2a5960d0-1d4f-4843-9a6e-87510ed674d9](https://github.com/Aksal00/Aksal00/assets/110421821/d7e93e56-1daf-422a-836c-d44dbeabed72)" alt="portfolio image" width="700" height="400"/> 
 
 
 
