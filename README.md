@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, 👋</h2>
 
-<h1 align="center" style="color: turquoise;">I'm <b>Akila Srikantha</b></h1>
+<h1 align="center">I'm <b>Akila Srikantha</b></h1>
 <h3 align="center">"Everything is Connected"</h3>
 
 <p align="center">
