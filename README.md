@@ -29,7 +29,7 @@
 <td width="60%" align="center">
   
   <img align="center" alt="portfolio image" width="600" src="https://github.com/Aksal00/Aksal00/assets/110421821/d7e93e56-1daf-422a-836c-d44dbeabed72">
-  </br>
+  <br>
   Visit <a href="https://akila-srikantha.netlify.app/ ">my online portfolio</a> to discover more about my journey!
 
   
