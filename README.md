@@ -10,9 +10,6 @@
 <a href="https://youtube.com/playlist?list=PL_zkjRWwoQj-i8ftGefLnyQJ-uLVxi-ZV&si=HTZ7yvgtF9b2RoK7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@akila_salinda" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksal00&label=Profile%20views&color=0e75b6&style=flat" alt="aksal00" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksal00" alt="aksal00" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack, Unity**
 
