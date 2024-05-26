@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://web.facebook.com/profile.php?id=100015022902064" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akila srikantha" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akila-srikantha-2693b41b9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akila srikantha" height="30" width="40" /></a>
-<a href="https://x.com/akila_salinda" target="_blank"><img align="center" src="public/icons/x" alt="@akila_salinda" height="30" width="40" /></a>
+<a href="https://x.com/akila_salinda" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/public/icons/x/x-light.svg" alt="@akila_salinda" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksal00&label=Profile%20views&color=0e75b6&style=flat" alt="aksal00" /> </p>
