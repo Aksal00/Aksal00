@@ -28,7 +28,7 @@
 </td>
 <td width="50%" align="center">
   <h6 align="center">Visit <a href="https://akila-srikantha.netlify.app/ ">my online portfolio</a> to discover more about my journey!</h6>
-  <img align="center" alt="portfolio image" width="400" src="https://github.com/Aksal00/Aksal00/assets/110421821/d7e93e56-1daf-422a-836c-d44dbeabed72">
+  <img align="center" alt="portfolio image" width="500" src="https://github.com/Aksal00/Aksal00/assets/110421821/d7e93e56-1daf-422a-836c-d44dbeabed72">
 
   
   </td>
