@@ -24,6 +24,10 @@
 - 📫 How to reach me **akilasrikantha2000@gmail.com**
   
 - ⚡ Fun fact **"I hate dhal curry with spinach"**
+<h2>Contact Me</h2>
+<p>📧 Email: <a href="mailto:akilasrikantha2000@gmail.com">akilasrikantha2000@gmail.com</a></p>
+<h2>Fun Fact</h2>
+<p>⚡ I hate dhal curry with spinach!</p>
 
 </td>
 <td width="60%" align="center">
